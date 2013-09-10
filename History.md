@@ -1,3 +1,8 @@
+v0.1.3 -- September 10, 2013
+--------------------------
+
+Multiple patches.
+
 v0.1.2 -- August 21, 2013
 --------------------------
 
@@ -14,7 +19,7 @@ Minor fixes.
  * Removed the busy cursor that occurs when loading.
  * Added support for IE7 to IE9. (#3, [Mark Bao])
  * Implement `trickleRate` and `trickleSpeed` options.
- * Implement the `showSpinner` option to allow removing the spinner. (#5, #9, 
+ * Implement the `showSpinner` option to allow removing the spinner. (#5, #9,
      [Rahul C S])
  * Registered as a Component in Component.io.
  * Updated the Readme with better Turbolinks instructions. (#8)
